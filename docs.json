@@ -71,6 +71,10 @@
           "index.html",
           "quickstart"
         ]
+      },
+      {
+        "group": "Untitled Group",
+        "pages": []
       }
     ]
   }
